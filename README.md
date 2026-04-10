@@ -68,7 +68,7 @@ pip install sqlalchemy
 2. Run the script:
 
 ```
-python your_file_name.py
+python RelationalDB-Python.py
 ```
 
 3. The database file `shop.db` will be created automatically.
